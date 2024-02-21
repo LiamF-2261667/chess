@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BoardSetup/default_board.txt</file>
+        <file>Images/black_b.png</file>
+        <file>Images/black_k.png</file>
+        <file>Images/black_n.png</file>
+        <file>Images/black_p.png</file>
+        <file>Images/black_q.png</file>
+        <file>Images/black_r.png</file>
+        <file>Images/white_b.png</file>
+        <file>Images/white_k.png</file>
+        <file>Images/white_n.png</file>
+        <file>Images/white_p.png</file>
+        <file>Images/white_q.png</file>
+        <file>Images/white_r.png</file>
+    </qresource>
+</RCC>
